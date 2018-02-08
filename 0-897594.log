@@ -1,0 +1,100 @@
+[
+ {
+  "Error": {
+   "Message": "ERRORED! Response received (if any): ",
+   "Turn": 1
+  },
+  "Frames": [
+   {
+    "Time": 53,
+    "Turn": 0
+   },
+   null
+  ],
+  "PlayerID": 0,
+  "PlayerName": "MonkBot"
+ },
+ {
+  "Error": {},
+  "Frames": [
+   {
+    "Time": 47,
+    "Turn": 0
+   },
+   {
+    "Commands": [
+     {
+      "angle": 330,
+      "magnitude": 7,
+      "owner": 1,
+      "queue_number": 0,
+      "shipId": 3,
+      "type": "thrust"
+     },
+     {
+      "angle": 336,
+      "magnitude": 7,
+      "owner": 1,
+      "queue_number": 0,
+      "shipId": 4,
+      "type": "thrust"
+     },
+     {
+      "angle": 81,
+      "magnitude": 7,
+      "owner": 1,
+      "queue_number": 0,
+      "shipId": 5,
+      "type": "thrust"
+     }
+    ],
+    "Planets": null,
+    "Ships": [
+     {
+      "cooldown": 0,
+      "docking": {
+       "status": "undocked"
+      },
+      "health": 255,
+      "id": 3,
+      "owner": 1,
+      "vel_x": 0.0,
+      "vel_y": 0.0,
+      "x": 186.062177826491,
+      "y": 76.5
+     },
+     {
+      "cooldown": 0,
+      "docking": {
+       "status": "undocked"
+      },
+      "health": 255,
+      "id": 4,
+      "owner": 1,
+      "vel_x": 0.0,
+      "vel_y": 0.0,
+      "x": 186.394818203498,
+      "y": 74.1528434984694
+     },
+     {
+      "cooldown": 0,
+      "docking": {
+       "status": "undocked"
+      },
+      "health": 255,
+      "id": 5,
+      "owner": 1,
+      "vel_x": 0.0,
+      "vel_y": 0.0,
+      "x": 181.095041255282,
+      "y": 89.913818384166
+     }
+    ],
+    "Time": 0,
+    "Turn": 1
+   }
+  ],
+  "PlayerID": 1,
+  "PlayerName": "OldMonkBot"
+ }
+]
