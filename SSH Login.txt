@@ -1,2 +1,2 @@
 Monk@134.100.234.58 -p 22
-PW MyPythonBot
+Password NewPythonBot
